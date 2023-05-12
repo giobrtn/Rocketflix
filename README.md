@@ -9,4 +9,4 @@
 
 ##
 
-O projeto pode ser visualizado em: https://giobrtn.github.io/projeto-rocketcoffee/
+O projeto pode ser visualizado em: [https://giobrtn.github.io/projeto-rocketcoffee/](https://giobrtn.github.io/Rocketflix/)
